@@ -1,0 +1,12 @@
+{
+  "name": "ibwhack24npcfi",
+  "version": "1.0.0",
+  "description": "pump fun on both solana and ethereum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
